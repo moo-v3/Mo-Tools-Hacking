@@ -2,7 +2,7 @@
 
 <br> 
 
- This tool Vip download and install tools for hacking in the internet .
+ All tools for Scanning and hacking websites and devices and many other tools as well .
 
 <h2>Supported systems: </h2>
 
