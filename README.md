@@ -32,13 +32,13 @@ git clone https://github.com/moo-v3/Mo-Tools-Hacking
 cd Mo-Tools-Hacking
 ```
 ```bash
-chmod +x mo-tool.py
+chmod +x mo-tools.py
 ```
 ```bash
-python mo-tool.py
+python mo-tools.py
 ```
 
-# Contact to developer
+# Contact to developer io
 
 [Facebook](https://facebook.com/moo.v3)
 
