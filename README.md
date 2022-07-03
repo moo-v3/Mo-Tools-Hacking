@@ -38,7 +38,7 @@ chmod +x mo-tools.py
 python mo-tools.py
 ```
 
-# Contact to developer io
+# Contact to developer
 
 [Facebook](https://facebook.com/moo.v3)
 
