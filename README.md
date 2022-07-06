@@ -23,7 +23,7 @@ apt-get update && apt-get apgrade
 apt-get install git -y
 ```
 ```bash
-apt-get install python -y
+apt-get install python -y 
 ```
 ```bash
 git clone https://github.com/moo-v3/Mo-Tools-Hacking
