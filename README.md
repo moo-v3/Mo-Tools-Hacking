@@ -46,10 +46,10 @@ chmod +x mo-tool.py
 python mo-tool.py
 ```
 
-  * Password tool [click here](http://linkjust.com/gHxQlf537eFsPeWa6iER)
+  * <h2>Tool password <h2> [click here](http://linkjust.com/gHxQlf537eFsPeWa6iER)
 
 <br>
-# Contact to developer 
+<h3>Contact to developer </h3>
 
 [Facebook](https://facebook.com/moo.v3)
 
