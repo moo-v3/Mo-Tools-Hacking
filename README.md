@@ -45,7 +45,7 @@ python mo-tools.py
 ```
 
   * <h2>Tool password</h2>
-  [click here](http://linkjust.com/gHxQlf537eFsPeWa6iER)
+   [click here](http://linkjust.com/gHxQlf537eFsPeWa6iER)
 
 <br>
 <h3>Contact to developer </h3>
