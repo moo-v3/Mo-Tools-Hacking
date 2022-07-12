@@ -44,7 +44,8 @@ chmod +x mo-tool.py
 python mo-tool.py
 ```
 
-  * <h2>Tool password [click here](http://linkjust.com/gHxQlf537eFsPeWa6iER)
+  * <h2>Tool password</h2>
+  [click here](http://linkjust.com/gHxQlf537eFsPeWa6iER)
 
 <br>
 <h3>Contact to developer </h3>
