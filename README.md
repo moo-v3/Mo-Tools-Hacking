@@ -38,10 +38,10 @@ git clone https://github.com/moo-v3/Mo-Tools-Hacking
 cd Mo-Tools-Hacking
 ```
 ```bash
-chmod +x mo-tool.py
+chmod + x mo-tools.py
 ```
 ```bash
-python mo-tool.py
+python mo-tools.py
 ```
 
   * <h2>Tool password</h2>
